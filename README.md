@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/banner.svg" alt="Nur Islam — CTO at SOFT HAB, Founder and CEO of HOST HAB, Linux System Administrator and DevOps Engineer in Dhaka, Bangladesh" width="100%" />
+  <img src="https://raw.githubusercontent.com/NurIslam333/NurIslam333/main/assets/banner.png" alt="Nur Islam — CTO at SOFT HAB, Founder and CEO of HOST HAB, Linux System Administrator and DevOps Engineer in Dhaka, Bangladesh" width="100%" />
 </div>
 
 <br />
@@ -27,7 +27,7 @@
 [![CTO](https://img.shields.io/badge/CTO-SOFT%20HAB-0ea5e9?style=flat-square)](https://www.softhab.com)
 [![CEO](https://img.shields.io/badge/Founder%20%26%20CEO-HOST%20HAB-22c55e?style=flat-square)](https://hosthab.com)
 [![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-1e3a5f?style=flat-square)](https://github.com/NurIslam333)
-[![Experience](https://img.shields.io/badge/Experience-10%2B%20Years-0b1220?style=flat-square)](https://github.com/NurIslam333)
+[![Experience](https://img.shields.io/badge/Experience-12%2B%20Years-0b1220?style=flat-square)](https://github.com/NurIslam333)
 
 </div>
 
@@ -35,7 +35,7 @@
 
 ## About Nur Islam
 
-I am **Nur Islam**, a Dhaka-based **CTO, Founder & CEO, Linux system administrator, and DevOps engineer** with **10+ years** shipping production infrastructure and software.
+I am **Nur Islam**, a Dhaka-based **CTO, Founder & CEO, Linux system administrator, and DevOps engineer** with **12+ years** shipping production infrastructure and software.
 
 At **[SOFT HAB](https://www.softhab.com)** I lead technology strategy, engineering, and cloud delivery for POS, ERP, SaaS, mobile, and AI-powered platforms. At **[HOST HAB](https://hosthab.com)** — the company I founded — I build and operate **fast, secure web hosting in Bangladesh**: cPanel shared hosting, reseller hosting, VPS, dedicated servers, and managed WordPress, with a **99.99% uptime** focus.
 
@@ -99,12 +99,11 @@ My day-to-day work sits at the intersection of **server administration, cloud ar
 
 ## Featured Projects
 
-Public work spanning **WHMCS payment gateways, WordPress plugins, Laravel ecommerce, and TypeScript dashboards**.
+Public work spanning **WHMCS payment gateways, WordPress plugins, ecommerce APIs, and TypeScript dashboards**.
 
 | Project | Stack | Focus |
 | :--- | :--- | :--- |
 | **[WHMCS bKash Tokenized Checkout](https://github.com/NurIslam333/WHMCS-bKash-TokenizedCheckout)** | PHP · WHMCS | Automated **bKash Merchant Tokenized Checkout** gateway for WHMCS 6, 7 & 8 — logs, instant verify, production billing |
-| **[Borobazaar](https://github.com/NurIslam333/Borobazaar)** | Laravel · Blade | **Multivendor ecommerce marketplace** architecture for Bangladesh-scale catalog and vendor workflows |
 | **[WP Plugin RUL Teams](https://github.com/NurIslam333/WP-Plugin-RUL-Teams)** | PHP · WordPress | WordPress plugin for **team and member management** |
 | **[GCC Dashboard](https://github.com/NurIslam333/GCC-Dashboard)** | TypeScript | Operations dashboard for structured business reporting |
 | **[Simple eCommerce API](https://github.com/NurIslam333/Simple-eCommerce-API)** + **[Frontend](https://github.com/NurIslam333/Simple-eCommerce-Frontend)** | PHP · JavaScript | End-to-end commerce API and storefront |
@@ -133,12 +132,12 @@ Public work spanning **WHMCS payment gateways, WordPress plugins, Laravel ecomme
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NurIslam333&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=22D3EE&text_color=E2E8F0&ring_color=3B82F6" alt="Nur Islam GitHub stats — commits, stars, PRs, and contributions" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurIslam333&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=E2E8F0" alt="Top languages used by Nur Islam: PHP, TypeScript, JavaScript, Blade" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=NurIslam333&amp;show_icons=true&amp;include_all_commits=true&amp;theme=transparent&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=22D3EE&amp;icon_color=22D3EE&amp;text_color=E2E8F0&amp;ring_color=3B82F6" alt="Nur Islam GitHub stats — commits, stars, PRs, and contributions" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NurIslam333&amp;layout=compact&amp;langs_count=8&amp;theme=transparent&amp;hide_border=true&amp;bg_color=0B1220&amp;title_color=22D3EE&amp;text_color=E2E8F0" alt="Top languages used by Nur Islam: PHP, TypeScript, JavaScript, Blade" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NurIslam333&bg_color=0B1220&color=E2E8F0&line=22D3EE&point=3B82F6&area=true&hide_border=true" alt="Nur Islam GitHub contribution activity graph" />
+  <img height="165" src="https://streak-stats.demolab.com?user=NurIslam333&amp;theme=transparent&amp;hide_border=true&amp;background=0B1220&amp;ring=22D3EE&amp;fire=22D3EE&amp;currStreakLabel=22D3EE&amp;sideLabels=E2E8F0&amp;sideNums=E2E8F0&amp;dates=94A3B8" alt="Nur Islam GitHub contribution streak" />
 </div>
 
 ---
